@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face{
+    font-family: 'vp-pixel';
+    src: url('./fonts/VPPixel-Simplified.otf') format('opentype');
+}
+@font-face{
+    font-family: 'dogica-pixel';
+    src: url('./fonts/dogica.ttf') format('opentype');
+}
+
+body {
+    background-image: url(./img/agoravaimesmo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+
+#obrigado {
+    background-color: white;
+    width: 55%;
+    display: flex;
+    align-items: left;
+    margin: auto;
+    flex-direction: column;
+    font-family: 'dogica-pixel';
+    padding: 42px;
+    gap: 48px;
+    box-shadow: -26px 26px #3E3467;
+    color: #3E3467;
+    padding-top: 53px;
+}
+
+#mensagem {
+    display: flex;
+    gap: 12px;
+    font-family: 'dogica-pixel';
+    color:#3E3467;
+}
+
+#logo {
+    width: 3%;
+    margin-top: -10px;
+}
+
+a {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-decoration: none;
+    gap: 15px;
+}
+
+div#voltar {
+    margin-top: 4%;
+}
+
+
+img#voltaresq {
+    width: 5%;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+p {
+    color: #3E3467;
+}
+
+
+
+
+
+
+
