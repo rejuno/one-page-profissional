@@ -1,0 +1,1327 @@
+@media (max-width: 1880px) {
+    #contato {
+        margin-top: 25.3%;
+        background-image: url(./img/agoravaimesmo.png);
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding-top: 104px;
+        padding-bottom: 101px;
+        gap: 55px;
+        background-repeat: round;
+    }
+    #home-slogan h1 {
+        font-family: 'vp-pixel';
+        color: rgb(35, 27, 66);
+        text-shadow: rgba(0, 0, 0, 0.3) 1px 2px;
+        font-size: 49pt;
+        width: 84%;
+    }
+}
+
+@media (max-width: 1794px) {
+    div#paragrafo p {
+        font-size: 15pt;
+    }
+    #topicos-habilidades2 {
+        font-family: 'vp-pixel';
+        font-size: 16pt;
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+        width: 12%;
+    }
+    #topicos-habilidades {
+        font-family: 'vp-pixel';
+        font-size: 16pt;
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+        width: 12%;
+    }
+}
+
+
+@media (max-width: 1701px) {
+
+#topicos-habilidades2 {
+    font-family: 'vp-pixel';
+    font-size: 15pt;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    width: 12%;
+}
+#topicos-habilidades {
+    font-family: 'vp-pixel';
+    font-size: 15pt;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    width: 12%;
+}
+#contato {
+    margin-top: 28.1%;
+    background-image: url(./img/agoravaimesmo.png);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 104px;
+    padding-bottom: 101px;
+    gap: 55px;
+    background-repeat: round;
+}
+}
+
+
+
+@media (max-width: 1675px) {
+    #home-slogan h1 {
+        font-family: 'vp-pixel';
+        color: rgb(35, 27, 66);
+        text-shadow: rgba(0, 0, 0, 0.3) 1px 2px;
+        font-size: 49pt;
+        width: 100%;
+    }
+    div#paragrafo p {
+        font-size: 13pt;
+    }
+
+}
+
+
+@media (max-width: 1577px) {
+div#paragrafo {
+    width: 567px;
+}
+#topicos-habilidades2 {
+    font-family: 'vp-pixel';
+    font-size: 14pt;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    width: 12%;
+}
+#topicos-habilidades {
+    font-family: 'vp-pixel';
+    font-size: 14pt;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    width: 12%;
+}
+
+}
+@media (max-width: 1548px) {
+    #habilidades h1 {
+        font-family: 'vp-pixel';
+        margin-left: 257px;
+        margin-bottom: 20px;
+        font-size: 34pt;
+        color: #231B42;
+        text-shadow: rgba(0, 0, 0, 0.3) 1px 2px;
+    }
+    #topicos-habilidades2 {
+        font-family: 'vp-pixel';
+        font-size: 13pt;
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+        width: 12%;
+    }
+    #topicos-habilidades {
+        font-family: 'vp-pixel';
+        font-size: 13pt;
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+        width: 12%;
+    }
+    nav#menu {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        gap: 16%;
+        animation: fadeIn 1.5s ease forwards;
+    }
+
+}
+
+@media (max-width: 1547px) {
+#foto-pixel {
+    width: 705px;
+    height: 100%;
+    opacity: 0;
+    animation: fadeIn 1s ease forwards;
+}
+nav#menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    gap: 16%;
+    animation: fadeIn 1.5s ease forwards;
+}
+ul li {
+    list-style-type: none;
+    font-family: 'vp-pixel';
+    font-size: 18pt;
+    color: #3E3467;
+}
+#habilidades h1 {
+    font-family: 'vp-pixel';
+    margin-left: 257px;
+    margin-bottom: 20px;
+    font-size: 34pt;
+    color: #231B42;
+    text-shadow: rgba(0, 0, 0, 0.3) 1px 2px;
+}
+}
+
+@media (max-width: 1428px) {
+    #foto-pixel {
+        width: 647px;
+        height: 100%;
+        opacity: 0;
+        animation: fadeIn 1s ease forwards;
+    }
+    div#paragrafo p {
+        font-size: 11pt;
+    }
+    img#sobremim-imagem {
+        margin-left: 10%;
+        width: 63%;
+        animation: fadeIn 1s ease forwards;
+    }
+    #habilidades-separadas {
+        display: flex;
+        flex-direction: row;
+        gap: 570px;
+        justify-content: center;
+    }
+    #topicos-habilidades2 {
+        font-family: 'vp-pixel';
+        font-size: 13pt;
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+        width: 16%;
+    }
+    #habilidades h1 {
+        font-family: 'vp-pixel';
+        margin-left: 228px;
+        margin-bottom: 20px;
+        font-size: 34pt;
+        color: #231B42;
+        text-shadow: rgba(0, 0, 0, 0.3) 1px 2px;
+    }
+    #contato {
+        margin-top: 33.1%;
+        background-image: url(./img/agoravaimesmo.png);
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding-top: 104px;
+        padding-bottom: 101px;
+        gap: 55px;
+        background-repeat: round;
+    }
+}
+
+@media (max-width: 1369px) {
+    #home-slogan h1 {
+        font-family: 'vp-pixel';
+        color: rgb(35, 27, 66);
+        text-shadow: rgba(0, 0, 0, 0.3) 1px 2px;
+        font-size: 49pt;
+        width: 111%;
+    }
+    nav#menu {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        gap: 13%;
+        animation: fadeIn 1.5s ease forwards;
+    }
+    #curriculohab {
+        width: 175px;
+        padding: 14px;
+        background-color: #3E3467;
+        color: #ffffff;
+        font-family: 'vp-pixel';
+        border: none;
+        font-size: 18pt;
+        display: flex;
+        justify-content: center;
+        cursor: pointer;
+        transition-duration: 0.2s;
+    }
+    #foto-pixel {
+        width: 633px;
+        height: 100%;
+        opacity: 0;
+        animation: fadeIn 1s ease forwards;
+    }
+
+}
+
+
+@media (max-width: 1347px) {
+    #home-slogan {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        gap: 23px;
+        margin-left: 7%;
+        margin-top: 74px;
+    }
+    #home-slogan h1 {
+        font-family: 'vp-pixel';
+        color: rgb(35, 27, 66);
+        text-shadow: rgba(0, 0, 0, 0.3) 1px 2px;
+        font-size: 43pt;
+        width: 111%;
+    }
+    #foto-pixel {
+        width: 628px;
+        height: 100%;
+        opacity: 0;
+        animation: fadeIn 1s ease forwards;
+    }
+
+}
+
+
+@media (max-width: 1284px) {
+#foto-pixel {
+    width: 570px;
+    height: 100%;
+    opacity: 0;
+    animation: fadeIn 1s ease forwards;
+}
+}
+
+
+@media (max-width: 1279px) {
+    img#sobremim-imagem {
+        margin-left: 7%;
+        width: 65%;
+        animation: fadeIn 1s ease forwards;
+    }
+    .slide {
+        width: 200px;
+        height: 300px;
+        list-style-type: none;
+        position: absolute;
+        top: 50%;
+        transform: translate(-62px, -182px);
+        /* transform: translateX(-66px); */
+        z-index: 1;
+        background-position: center;
+        background-size: cover;
+        transition: transform 0.1s, left 0.75s, top 0.75s, width 0.75s, height 0.75s;
+    }
+    .navigation {
+        position: absolute;
+        bottom: -1rem;
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: 5;
+        user-select: none;
+        gap: 5px;
+    }
+    #habilidades {
+        background-image: url(./img/fundo_habilidades.png);
+        background-size: cover;
+        padding-top: 4%;
+        padding-bottom: 47px;
+        color: #3E3467;
+    }
+}
+
+
+@media (max-width: 1222px) {
+    #foto-pixel {
+        width: 548px;
+        height: 100%;
+        opacity: 0;
+        animation: fadeIn 1s ease forwards;
+    }
+    #paragrafo-sobre {
+        font-family: 'dogica';
+        display: flex;
+        flex-direction: column;
+        gap: 34px;
+        justify-content: center;
+        color: #3E3467;
+        animation: fadeIn 1s ease forwards;
+        margin-left: -55px;
+    }
+    #contato {
+        margin-top: 33.1%;
+        background-image: url(./img/agoravaimesmo.png);
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding-top: 165px;
+        padding-bottom: 101px;
+        gap: 55px;
+        background-repeat: round;
+    }
+
+}
+
+@media (max-width: 1198px) {
+    #foto-pixel {
+        width: 524px;
+        height: 100%;
+        opacity: 0;
+        animation: fadeIn 1s ease forwards;
+    }
+    #home-slogan h1 {
+        font-family: 'vp-pixel';
+        color: rgb(35, 27, 66);
+        text-shadow: rgba(0, 0, 0, 0.3) 1px 2px;
+        font-size: 43pt;
+        width: 100%;
+    }
+}
+
+@media (max-width: 1172px) {
+    #home-slogan h1 {
+        font-family: 'vp-pixel';
+        color: rgb(35, 27, 66);
+        text-shadow: rgba(0, 0, 0, 0.3) 1px 2px;
+        font-size: 38pt;
+        width: 100%;
+    }
+    #curriculo-home {
+        width: 22%;
+        padding: 14px;
+        background-color: #3E3467;
+        color: #ffffff;
+        font-family: 'vp-pixel';
+        border: none;
+        font-size: 14pt;
+        cursor: pointer;
+        transition-duration: 0.2s;
+        animation: moveToRightp 1.5s ease forwards;
+    }
+    #paragrafo-sobre h1 {
+        font-size: 28pt;
+    }
+    #paragrafo-sobre h2 {
+        font-size: 10pt;
+    }
+    #paragrafo-sobre p {
+        font-size: 12px;
+    }
+    img {
+        width: 122%;
+    }
+    img#logo {
+        width: 15%;
+    }
+    #habilidades h1 {
+        font-family: 'vp-pixel';
+        margin-left: 136px;
+        margin-bottom: 20px;
+        font-size: 34pt;
+        color: #231B42;
+        text-shadow: rgba(0, 0, 0, 0.3) 1px 2px;
+    }
+    
+    #home-slogan {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 23px;
+    margin-left: 5%;
+    margin-top: 74px;
+    }
+}
+
+@media (max-width: 1155px) {
+    .slide {
+        width: 200px;
+        height: 300px;
+        list-style-type: none;
+        position: absolute;
+        top: 50%;
+        transform: translate(-114px, -182px);
+        z-index: 1;
+        background-position: center;
+        background-size: cover;
+        transition: transform 0.1s, left 0.75s, top 0.75s, width 0.75s, height 0.75s;
+    }
+}
+
+@media (max-width: 1147px) {
+    #foto-pixel {
+        width: 516px;
+        height: 100%;
+        opacity: 0;
+        animation: fadeIn 1s ease forwards;
+    }
+}
+
+
+
+@media (max-width: 1133px) {
+#foto-pixel {
+    width: 494px;
+    height: 100%;
+    opacity: 0;
+    animation: fadeIn 1s ease forwards;
+}
+}
+
+
+@media (max-width: 1115px) {
+    #foto-pixel {
+        width: 465px;
+        height: 100%;
+        opacity: 0;
+        animation: fadeIn 1s ease forwards;
+    }
+    #curriculo-home {
+        width: 22%;
+        padding: 14px;
+        background-color: #3E3467;
+        color: #ffffff;
+        font-family: 'vp-pixel';
+        border: none;
+        font-size: 14pt;
+        cursor: pointer;
+        transition-duration: 0.2s;
+        animation: moveToRightp 1.5s ease forwards;
+        margin-bottom: 33px;
+    }
+}
+
+@media (max-width: 1085px) {
+    #home-slogan h1 {
+        font-family: 'vp-pixel';
+        color: rgb(35, 27, 66);
+        text-shadow: rgba(0, 0, 0, 0.3) 1px 2px;
+        font-size: 33pt;
+        width: 84%;
+    }
+    div#pixelme {
+        margin-left: -58px;
+    }
+    #topicos {
+        display: flex;
+        flex-direction: row;
+        gap: 47px;
+        align-items: center;
+    }
+    ul li {
+        list-style-type: none;
+        font-family: 'vp-pixel';
+        font-size: 15pt;
+        color: #3E3467;
+    }
+    form {
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+        background-color: #3E3467;
+        padding: 53px;
+        padding-left: 21px;
+        padding-right: 21px;
+        width: 84%;
+        box-shadow: 18px 18px #CABFEE;
+    }
+    #contato {
+        margin-top: 33.1%;
+        background-image: url(./img/agoravaimesmo.png);
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding-top: 193px;
+        padding-bottom: 101px;
+        gap: 55px;
+        background-repeat: round;
+        padding-left: 47px;
+    }
+    #topicos-habilidades2 {
+        font-family: 'vp-pixel';
+        font-size: 13pt;
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+        width: 16%;
+        margin-left: -121px;
+    }
+    #habilidades h1 {
+        font-family: 'vp-pixel';
+        margin-left: 164px;
+        margin-bottom: 20px;
+        font-size: 34pt;
+        color: #231B42;
+        text-shadow: rgba(0, 0, 0, 0.3) 1px 2px;
+    }
+}
+
+
+@media (max-width: 1054px) {
+.slide {
+    width: 200px;
+    height: 300px;
+    list-style-type: none;
+    position: absolute;
+    top: 50%;
+    transform: translate(-166px, -182px);
+    z-index: 1;
+    background-position: center;
+    background-size: cover;
+    transition: transform 0.1s, left 0.75s, top 0.75s, width 0.75s, height 0.75s;
+}
+}
+
+
+@media (max-width: 1024px) {
+    #foto-pixel {
+        width: 449px;
+        height: 100%;
+        opacity: 0;
+        animation: fadeIn 1s ease forwards;
+    }
+    #paragrafo-sobre h1 {
+        font-size: 28pt;
+        line-height: 3rem;
+    }
+}
+
+
+@media (max-width: 1004px) {
+    #foto-pixel {
+        width: 444px;
+        height: 100%;
+        opacity: 0;
+        animation: fadeIn 1s ease forwards;
+    }
+    #home-slogan h1 {
+        font-family: 'vp-pixel';
+        color: rgb(35, 27, 66);
+        text-shadow: rgba(0, 0, 0, 0.3) 1px 2px;
+        font-size: 31pt;
+        width: 84%;
+    }
+}
+
+
+@media (max-width: 1001px) {
+    div#pixelme {
+        margin-left: -93px;
+    }
+}
+
+
+
+@media (max-width: 980px) {
+div#home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#home-slogan {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 23px;
+    margin-left: 0;
+    margin-top: 74px;
+    width: 86%;
+}
+div#paragrafo {
+    width: 100%;
+}
+div#pixelme {
+    margin-left: 0;
+}
+#foto-pixel {
+    width: 571px;
+    height: 100%;
+    opacity: 0;
+    animation: fadeIn 1s ease forwards;
+    margin-top: -143px;
+    display: none;
+}
+#sobre {
+    background-image: url(./img/fundo_sobre.png);
+    background-size: contain;
+    display: flex;
+    justify-content: center;
+    padding-top: 96px;
+    column-gap: 89px;
+    padding-bottom: 63px;
+    flex-direction: column;
+    align-items: center;
+}
+img#sobremim-imagem {
+    margin-left: 7%;
+    width: 45%;
+    animation: fadeIn 1s ease forwards;
+}
+#paragrafo-sobre {
+    font-family: 'dogica';
+    display: flex;
+    flex-direction: column;
+    gap: 34px;
+    justify-content: center;
+    color: #3E3467;
+    animation: fadeIn 1s ease forwards;
+    align-items: center;
+}
+#paragrafo-sobre h1 {
+    font-size: 28pt;
+    line-height: 3rem;
+    width: 73%;
+    margin-top: 39px;
+}
+#habilidades-separadas {
+    display: flex;
+    flex-direction: row;
+    gap: 492px;
+    justify-content: center;
+}
+#topicos-habilidades2 {
+    font-family: 'vp-pixel';
+    font-size: 13pt;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    width: 25%;
+    margin-left: -121px;
+}
+#habilidades h1 {
+    font-family: 'vp-pixel';
+    margin-left: 123px;
+    margin-bottom: 20px;
+    font-size: 34pt;
+    color: #231B42;
+    text-shadow: rgba(0, 0, 0, 0.3) 1px 2px;
+}
+
+}
+
+@media (max-width: 946px) {
+    .slide {
+        width: 176px;
+        height: 300px;
+        list-style-type: none;
+        position: absolute;
+        top: 50%;
+        transform: translate(-166px, -182px);
+        z-index: 1;
+        background-position: center;
+        background-size: cover;
+        transition: transform 0.1s, left 0.75s, top 0.75s, width 0.75s, height 0.75s;
+    }
+
+}
+
+@media (max-width: 900px) {
+    .content {
+        display: none !important;
+    }
+    .slide {
+        width: 176px;
+        height: 300px;
+        list-style-type: none;
+        position: absolute;
+        top: 50%;
+        transform: translate(-303px, -182px);
+        z-index: 1;
+        background-position: center;
+        background-size: cover;
+        transition: transform 0.1s, left 0.75s, top 0.75s, width 0.75s, height 0.75s;
+    }
+    nav {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        padding-top: 15px;
+        padding-bottom: 32px;
+        gap: 28%;
+        animation: fadeIn 1.5s ease forwards;
+    }
+    #contato {
+        margin-top: 33.1%;
+        background-image: url(./img/agoravaimesmo.png);
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding-top: 236px;
+        padding-bottom: 101px;
+        gap: 55px;
+        background-repeat: round;
+        padding-left: 47px;
+    }
+}
+
+@media (max-width: 899px) {
+    .slide {
+        width: 158px;
+        height: 300px;
+        list-style-type: none;
+        position: absolute;
+        top: 50%;
+        transform: translate(-248px, -182px);
+        z-index: 1;
+        background-position: center;
+        background-size: cover;
+        transition: transform 0.1s, left 0.75s, top 0.75s, width 0.75s, height 0.75s;
+    }
+}
+
+@media (max-width: 840px) {
+    #paragrafo-sobre {
+        font-family: 'dogica';
+        display: flex;
+        flex-direction: column;
+        gap: 34px;
+        justify-content: center;
+        color: #3E3467;
+        animation: fadeIn 1s ease forwards;
+        align-items: center;
+        text-align: center;
+    }
+    #paragrafo-sobre {
+        font-family: 'dogica';
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        justify-content: center;
+        color: #3E3467;
+        animation: fadeIn 1s ease forwards;
+        align-items: center;
+        text-align: center;
+        margin-left: 48px;
+    }
+    #habilidades h1 {
+        font-family: 'vp-pixel';
+        margin-left: 81px;
+        margin-bottom: 20px;
+        font-size: 34pt;
+        color: #231B42;
+        text-shadow: rgba(0, 0, 0, 0.3) 1px 2px;
+    }
+
+
+}
+
+@media (max-width: 837px) {
+    nav#menu {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 14px;
+    }
+    img#logo {
+        width: 38%;
+    }
+    #paragrafo-sobre {
+        font-family: 'dogica';
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        justify-content: center;
+        color: #3E3467;
+        animation: fadeIn 1s ease forwards;
+        align-items: center;
+        text-align: left;
+        margin-left: 48px;
+    }
+
+}
+
+
+@media (max-width: 795px) {
+    div#contato {
+        display: flex;
+        flex-direction: column;
+        margin-top: 41.1%;
+    }
+    form {
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+        background-color: #3E3467;
+        padding: 53px;
+        padding-left: 21px;
+        padding-right: 21px;
+        width: 100%;
+        box-shadow: 18px 18px #CABFEE;
+    }
+
+}
+
+
+@media (max-width: 763px) {
+#paragrafo-sobre h1 {
+    font-size: 25pt;
+    line-height: 3rem;
+    width: 73%;
+    margin-top: 39px;
+}
+img.btn.prev {
+    width: 19%;
+}
+img.btn.next {
+    width: 19%;
+}
+#home-slogan h1 {
+    font-family: 'vp-pixel';
+    color: rgb(35, 27, 66);
+    text-shadow: rgba(0, 0, 0, 0.3) 1px 2px;
+    font-size: 31pt;
+    width: 100%;
+}
+}
+
+@media (max-width: 733px) {
+    #habilidades-separadas {
+        display: flex;
+        flex-direction: row;
+        gap: 403px;
+        justify-content: center;
+    }
+    #habilidades h1 {
+        font-family: 'vp-pixel';
+        margin-left: 90px;
+        margin-bottom: 20px;
+        font-size: 34pt;
+        color: #231B42;
+        text-shadow: rgba(0, 0, 0, 0.3) 1px 2px;
+    }
+}
+
+@media (max-width: 679px) {
+    #topicos-habilidades2 {
+        font-family: 'vp-pixel';
+        font-size: 13pt;
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+        width: 33%;
+        margin-left: -121px;
+    }
+    #habilidades h1 {
+        font-family: 'vp-pixel';
+        margin-left: 47px;
+        margin-bottom: 20px;
+        font-size: 34pt;
+        color: #231B42;
+        text-shadow: rgba(0, 0, 0, 0.3) 1px 2px;
+    }
+    div#formulario {
+        width: 76%;
+    }
+    #paragrafo-sobre h1 {
+        font-size: 24pt;
+        line-height: 3rem;
+        width: 73%;
+        margin-top: 39px;
+    }
+
+}
+
+
+@media (max-width: 653px) {
+    div#contato {
+        display: flex;
+        flex-direction: column;
+        margin-top: 41.1%;
+        padding-top: 44%;
+    }
+}
+
+
+@media (max-width: 639px) {
+#home-slogan h1 {
+    font-family: 'vp-pixel';
+    color: rgb(35, 27, 66);
+    text-shadow: rgba(0, 0, 0, 0.3) 1px 2px;
+    font-size: 27pt;
+    width: 100%;
+}
+div#paragrafo {
+    width: 101%;
+}
+li#\#menuprojetos {
+    display: none;
+}
+#projetos {
+    position: absolute;
+    width: 100%;
+    height: 55%;
+    display: none;
+}
+div#contato {
+    display: flex;
+    flex-direction: column;
+    margin-top: 0%;
+    padding-top: 44%;
+}
+div#contato {
+    display: flex;
+    flex-direction: column;
+    margin-top: 0%;
+    padding-top: 10%;
+}
+
+}
+
+@media (max-width: 591px) {
+    #habilidades-separadas {
+        display: flex;
+        flex-direction: row;
+        gap: 346px;
+        justify-content: center;
+    }
+    #paragrafo-sobre h1 {
+        font-size: 21pt;
+        line-height: 3rem;
+        width: 73%;
+        margin-top: 39px;
+    }
+    div#paragrafo {
+        width: 100%;
+    }
+    div#paragrafo p {
+        font-size: 9pt;
+    }
+    #curriculo-home {
+        width: 31%;
+        padding: 14px;
+        background-color: #3E3467;
+        color: #ffffff;
+        font-family: 'vp-pixel';
+        border: none;
+        font-size: 14pt;
+        cursor: pointer;
+        transition-duration: 0.2s;
+        animation: moveToRightp 1.5s ease forwards;
+        margin-bottom: 33px;
+    }
+
+}
+
+@media (max-width: 500px) {
+    div#paragrafo p {
+        font-size: 8pt;
+    }
+    #home-slogan h1 {
+        font-family: 'vp-pixel';
+        color: rgb(35, 27, 66);
+        text-shadow: rgba(0, 0, 0, 0.3) 1px 2px;
+        font-size: 24pt;
+        width: 100%;
+    }
+    img#logo {
+        width: 47%;
+        margin-bottom: 12px;
+    }
+    #paragrafo-sobre {
+        font-family: 'dogica';
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        justify-content: center;
+        color: #3E3467;
+        animation: fadeIn 1s ease forwards;
+        align-items: center;
+        text-align: left;
+        margin-left: 38px;
+    }
+    #habilidades-separadas {
+        display: flex;
+        flex-direction: row;
+        gap: 301px;
+        justify-content: center;
+    }
+    #topicos-habilidades2 {
+        font-family: 'vp-pixel';
+        font-size: 13pt;
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+        width: 36%;
+        margin-left: -121px;
+    }
+    div#contato {
+        padding-left: 0px;
+    }
+}
+
+@media (max-width: 486px) {
+    #topicos-habilidades2 {
+        font-family: 'vp-pixel';
+        font-size: 13pt;
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+        width: 40%;
+        margin-left: -121px;
+    }
+    #habilidades-separadas {
+        display: flex;
+        flex-direction: row;
+        gap: 283px;
+        justify-content: center;
+    }
+    #habilidades h1 {
+        font-family: 'vp-pixel';
+        margin-left: 37px;
+        margin-bottom: 20px;
+        font-size: 34pt;
+        color: #231B42;
+        text-shadow: rgba(0, 0, 0, 0.3) 1px 2px;
+    }
+}
+
+
+@media (max-width: 458px) {
+    #topicos {
+        display: flex;
+        flex-direction: row;
+        gap: 21px;
+        align-items: center;
+    }
+    div#paragrafo {
+        width: 102%;
+    }
+
+}
+
+@media (max-width: 418px) {
+    div#paragrafo p {
+        font-size: 11pt;
+    }
+    div#paragrafo {
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+    }
+    #curriculo-home {
+        width: 41%;
+        padding: 14px;
+        background-color: #3E3467;
+        color: #ffffff;
+        font-family: 'vp-pixel';
+        border: none;
+        font-size: 14pt;
+        cursor: pointer;
+        transition-duration: 0.2s;
+        animation: moveToRightp 1.5s ease forwards;
+        margin-bottom: 33px;
+    }
+    img#sobremim-imagem {
+        margin-left: 7%;
+        width: 53%;
+        animation: fadeIn 1s ease forwards;
+    }
+    #paragrafo-sobre {
+        font-family: 'dogica';
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        justify-content: center;
+        color: #3E3467;
+        animation: fadeIn 1s ease forwards;
+        align-items: center;
+        text-align: left;
+        margin-left: 26px;
+    }
+}
+
+
+@media (max-width: 400px) {
+    #habilidades-separadas {
+        display: flex;
+        flex-direction: row;
+        gap: 255px;
+        justify-content: center;
+    }
+    #topicos-habilidades2 {
+        font-family: 'vp-pixel';
+        font-size: 13pt;
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+        width: 44%;
+        margin-left: -121px;
+    }
+    #habilidades h1 {
+        font-family: 'vp-pixel';
+        margin-left: 23px;
+        margin-bottom: 20px;
+        font-size: 34pt;
+        color: #231B42;
+        text-shadow: rgba(0, 0, 0, 0.3) 1px 2px;
+    }
+    div#redes a {
+        width: 12%;
+    }
+    #redes {
+        display: flex;
+        gap: 20px;
+        align-items: center;
+        flex-direction: row;
+        justify-content: center;
+    }
+    #titulocontato {
+        width: 71%;
+        padding: 19px;
+        background-color: rgb(253, 187, 208);
+        color: rgb(38, 33, 59);
+        font-family: vp-pixel;
+        border: none;
+        font-size: 21pt;
+        display: flex;
+        justify-content: center;
+        box-shadow: rgb(38, 33, 59) -18px 18px;
+        margin-left: 58px;
+        margin-bottom: 56px;
+    }
+    div#campoalinhar {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+    div#campoalinhar {
+        display: flex;
+        flex-direction: column;
+        gap: 19px;
+    }
+
+    #campoalinhar input {
+        width: 99.5%;
+        background-color: #E3DEF6;
+    }
+
+
+}
+
+@media (max-width: 388px) {
+ul li {
+    list-style-type: none;
+    font-family: 'vp-pixel';
+    font-size: 12pt;
+    color: #3E3467;
+}
+}
+
+
+@media (max-width: 320px) {
+    #home-slogan h1 {
+        font-family: 'vp-pixel';
+        color: rgb(35, 27, 66);
+        text-shadow: rgba(0, 0, 0, 0.3) 1px 2px;
+        font-size: 23pt;
+        width: 100%;
+    }
+    div#paragrafo p {
+        font-size: 10pt;
+    }
+    #paragrafo-sobre h1 {
+        font-size: 17pt;
+        line-height: 3rem;
+        width: 73%;
+        margin-top: 39px;
+    }
+    #paragrafo-sobre {
+        font-family: 'dogica';
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        justify-content: center;
+        color: #3E3467;
+        animation: fadeIn 1s ease forwards;
+        align-items: center;
+        text-align: left;
+        margin-left: 0px;
+    }
+    img#sobremim-imagem {
+        margin-left: 7%;
+        width: 81%;
+        animation: fadeIn 1s ease forwards;
+    }
+    #habilidades-separadas {
+        display: flex;
+        flex-direction: row;
+        gap: 255px;
+        justify-content: center;
+        margin-left: 16px;
+        margin-right: 22px;
+    }
+    #git, #github {
+        background-color: #ffffff;
+        padding: 8px;
+        width: 192%;
+    }
+    #powerbi {
+        background-color: #ffffff;
+        padding: 8px;
+        width: 271%;
+    }
+    #jscod {
+        background-color: #ffffff;
+        padding: 8px;
+        width: 320%;
+    }
+    #htmlcod, #csscod, #wordpress, #divi, #elementor {
+        background-color: #ffffff;
+        padding: 8px;
+        width: 413%;
+    }
+    #photoshop {
+        background-color: #ffffff;
+        padding: 8px;
+        width: 299%;
+    }
+    #php {
+        background-color: #ffffff;
+        padding: 8px;
+        width: 36%;
+    }
+    #node {
+        background-color: #ffffff;
+        padding: 8px;
+        width: 64%;
+    }
+    #mysql {
+        background-color: #ffffff;
+        padding: 8px;
+        width: 69%;
+    }
+    #uiux {
+        background-color: #ffffff;
+        padding: 8px;
+        width: 102%;
+    }
+    div#formulario {
+        width: 94%;
+    }
+    footer {
+        font-family: 'vp-pixel';
+        background-color: #3E3467;
+        color: white;
+        display: flex;
+        justify-content: center;
+        font-size: 4pt;
+        padding: 10px;
+    }
+    
+}
+
+
